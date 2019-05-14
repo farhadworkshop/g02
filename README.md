@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Blog.G02.ir
 
 You can use the [editor on GitHub](https://github.com/farhadworkshop/g02/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
